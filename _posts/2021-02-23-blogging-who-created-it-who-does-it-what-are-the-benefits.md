@@ -8,11 +8,11 @@ comments: false
 tags:
   - ""
 ---
-### What is blogging anyway? 
+#### What is blogging anyway? 
 
-### At this point in time we’ve all heard of blogging or even had a blog of our own, but what does it really mean and who does it benefit? 
+#### At this point in time we’ve all heard of blogging or even had a blog of our own, but what does it really mean and who does it benefit? 
 
-### Well let’s start at the beginning, what is blogging and who started it?
+#### Well let’s start at the beginning, what is blogging and who started it?
 
 ![](../uploads/blog-1-laptop-and-plant-photo-by-corinne-kutz-on-unsplash-.jpg)
 
