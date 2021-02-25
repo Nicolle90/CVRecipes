@@ -32,18 +32,14 @@ Also blogs today tend to be linked to the bloggers social media platforms, almos
 
 So why do people continue to blog today in the age of social media and video sharing platforms? 
 
-The simple answer is that companies still use blogging as a way to garner natural attention to their site. It creates more opportunities for your site to show up in search engines (**SEO**) and build traffic.
+The simple answer is that companies still use blogging as a way to garner natural attention to their site. It creates more opportunities for your site to show up in search engines (**[SEO](https://searchengineland.com/guide/what-is-seo)**) and build traffic.
 
 They can help build their network and develop a relationship with their audience, especially when they receive instant feedback that they can use to implement changes. It’s a great marketing tool that doesn’t cost anything to run.
-
-
 
 How do you feel about blogs in the present day? Do you believe they still have a place within the social media networks or have new techniques made them obsolete?
 
 If you’re looking to bring new traffic to your company, build your personal brand or just find  a new hobby it might be time to start up your own blog.
 
 Let us know your tips to starting a new blog and what content you intend to create. 
-
-
 
 *See you next time!*
