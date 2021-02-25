@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Nicolle Hunter
 header_feature_image: ../uploads/cherry-blossoms-over-water-photo-by-sora-sagano-on-unsplash-.jpg
 header_text: "Little Pinch of Soul "
 header_text_color: "#ffffff"
-bannerheight: 40vmax
+bannerheight: 20vmax
 logo: ../uploads/animated-girl-with-sunflowers.png
 favicon: ../uploads/animated-girl-with-sunflowers.png
 gridlayout: false
