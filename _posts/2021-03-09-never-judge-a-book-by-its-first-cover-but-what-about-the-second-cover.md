@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Never judge a book by its first cover, but what about the second cover?
-date: 2021-03-09T11:32:18.102Z
+title: Never judge a book by its first cover, but what about the mid-series
+  cover change?
+date: 2021-03-06T11:32:18.102Z
 title_color: "#ffffff"
 comments: false
 tags:
