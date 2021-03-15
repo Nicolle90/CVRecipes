@@ -8,6 +8,10 @@ tags: null
 ---
 Avocado toast has quickly become a worldwide breakfast favourite, with origins that range back to the Aztecs before it became the biggest food trend online. This popular dish has a Caribbean twist, with the addition of sweet fried plantains it will bring new life and flavours to your morning breakfast.
 
+![Image of toasted bread topped with mashed avocado, plantain and chilli flakes.](../uploads/plantainandavocadotoast.png "Plantain Avocado Toast")
+
+
+
 * Prep time: 5 mins
 * Cook time: 10 mins
 * Total time: 15 mins
