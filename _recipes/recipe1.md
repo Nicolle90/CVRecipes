@@ -13,8 +13,9 @@ Avocado toast has quickly become a worldwide breakfast favourite, with origins t
 * Total time: 15 mins
 * Serves: 1
 
-#### \
-Ingredients: 
+
+
+#### Ingredients: 
 
 * 1/2 Avocado
 * 1 Ripe Plantain (yellow with spots)
@@ -28,8 +29,9 @@ Ingredients: 
 * 2-3 tbs Vegetable oil
 * Dairy-free butter
 
-#### \
-Method:
+
+
+#### Method:
 
 Cut your avocado in half and carefully remove the pit. Scoop out the flesh and put it in a bowl.
 
