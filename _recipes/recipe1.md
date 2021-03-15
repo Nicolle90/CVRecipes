@@ -1,32 +1,61 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
-title: Recipe 1
-date: 2019-10-19
-published: true
+title: "Breakfast: Plantain Avocado Toast"
 order: 1
-tags:
+date: 2019-10-19
+layout: recipe
+published: true
+tags: null
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Avocado toast has quickly become a worldwide breakfast favourite, with origins that range back to the Aztecs before it became the biggest food trend online. This popular dish has a Caribbean twist, with the addition of sweet fried plantains it will bring new life and flavours to your morning breakfast.
 
-![Placeholder](../uploads/placeholder1.jpg)
+![Image of toasted bread topped with mashed avocado, plantain and chilli flakes.](../uploads/plantainandavocadotoast.png "Plantain Avocado Toast")
 
 
-## Ingredients
 
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
+* Prep time: 5 mins
+* Cook time: 10 mins
+* Total time: 15 mins
+* Serves: 1
 
-## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Ingredients: 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* 1/2 Avocado
+* 1 Ripe Plantain (yellow with spots)
+* Sourdough or Hard dough bread (bread of your choice)
+* Lemon
+* Parsley
+* Salt
+* Black Pepper
+* Paprika (optional)
+* Chilli flakes (optional)
+* 2-3 tbs Vegetable oil
+* Dairy-free butter
 
-- Serves: 6
-- Preparation time: 1 hour
+
+
+#### Method:
+
+Cut your avocado in half and carefully remove the pit. Scoop out the flesh and put it in a bowl.
+
+\
+Add a pinch of salt, black pepper, a squeeze of lemon and a sprinkle of parsley. You can also add paprika and chilli flakes for a deeper flavour, if desired.
+
+\
+Mash it up with a fork until it is as smooth as you like it and set aside.
+
+\
+Cut the ends off the plantain and remove from its peel. Diagonally cut the plantain into 1/4 inch slices.
+
+Heat 2-3 tbs of oil (or enough to coat the bottom) in a non stick pan on medium heat and place plantain in when it begins to sizzle (Do not let the oil get too hot and smoke).
+
+Fry for 1 1/2 minutes on one side, flip and cook for 1 minute on the other side.
+
+Remove from the pan and drain on paper towels.
+
+Toast your slice of bread until slightly golden and butter lightly.
+
+Spread avocado on top of your toast, top with a few slices of plantain.
+
+Enjoy!
