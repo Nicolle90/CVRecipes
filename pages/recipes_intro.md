@@ -1,5 +1,5 @@
 ---
-title: Vegan Caribbean Recipes
+title: Vegan Caribbean Dishes
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
 show: true
