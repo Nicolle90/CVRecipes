@@ -8,24 +8,17 @@ tags: null
 ---
 A Caribbean feast usually contains a variety of dishes that compliment one another. Traditionally served on Sundays or at a special event it always has a vast selection of dishes for friends and family members to choose and delight from. With a flavours ranging from spicy to savoury and touch of sweetness this feast will be sure fire hit for anyone that dines at your table.
 
-![](../uploads/vegancaribbeanfeast.jpg "Caribbean Feast")
+![Image of a selection of Caribbean vegan dishes on a white background.](../uploads/vegancaribbeanfeast.jpg "Caribbean Feast")
 
 * Prep time: 30 mins
 * Cook time: 1 hr 30 mins
 * Total time: 2 hours
-
-
-
 * Serves: 3 - 4
-
-
 
 #### Ingredients:
 
 * 1 Ripe Plantain
 * Vegetable oil
-
-
 
 #### Ingredients for Jerk Lentils: 
 
@@ -57,8 +50,6 @@ A Caribbean feast usually contains a variety of dishes that compliment one anoth
 * 200ml coconut milk
 * Fresh parsley
 
-
-
 #### Ingredients for Greens: 
 
 * 2 tomatoes (diced) 
@@ -70,6 +61,7 @@ A Caribbean feast usually contains a variety of dishes that compliment one anoth
 * 400g mixed greens (kale, spinach) 
 
 #### \
+
 Ingredients for Quinoa: 
 
 * 2 spring onions (sliced)
@@ -81,6 +73,7 @@ Ingredients for Quinoa: 
 * 1 cup of water
 
 #### \
+
 Method Jerk Lentils:
 
 Add oil in a large pan over medium heat, add red onions, spring onions, ginger, thyme,  and garlic stir until cooked down. 
@@ -90,6 +83,7 @@ Once the mix has softened, add the jerk seasoning, lentils and tomatoes. Mix tog
 Add 1 tablespoon of maple syrup (optional). Bring to a boil then cover and reduce heat until lentils are cooked through about 20 minutes, stir occasionally.
 
 #### \
+
 Method for Channa (Chickpeas):
 
 Blend red onion, spring onion, and ginger until a paste forms.
@@ -100,8 +94,6 @@ Add cumin, paprika, all spice, turmeric, curry powder. Mix and add a splash of w
 
 Add chickpeas, chopped tomatoes, and coconut milk. Break down the tomatoes only and mix together. Bring to a boil and reduce heat to a simmer. Allow to cook until chickpeas are cooked through.
 
-
-
 #### Method for Greens:
 
 Add red onion and red pepper to a pan over medium heat and cook until soft. Add ½ teaspoon paprika and salt to taste. 
@@ -111,6 +103,7 @@ Add fresh thyme, tomatoes, garlic, and tamari. Cook down until tomatoes are soft
 Add the greens and continuously stir until wilted.
 
 #### \
+
 Method for Quinoa and Plantain:
 
 Rinse the quinoa in a fine sieve to remove the bitter taste.
