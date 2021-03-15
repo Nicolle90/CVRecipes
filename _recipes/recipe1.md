@@ -10,14 +10,10 @@ Avocado toast has quickly become a worldwide breakfast favourite, with origins t
 
 ![Image of toasted bread topped with mashed avocado, plantain and chilli flakes.](../uploads/plantainandavocadotoast.png "Plantain Avocado Toast")
 
-
-
 * Prep time: 5 mins
 * Cook time: 10 mins
 * Total time: 15 mins
 * Serves: 1
-
-
 
 #### Ingredients: 
 
@@ -33,19 +29,14 @@ Avocado toast has quickly become a worldwide breakfast favourite, with origins t
 * 2-3 tbs Vegetable oil
 * Dairy-free butter
 
-
-
 #### Method:
 
 Cut your avocado in half and carefully remove the pit. Scoop out the flesh and put it in a bowl.
 
-\
 Add a pinch of salt, black pepper, a squeeze of lemon and a sprinkle of parsley. You can also add paprika and chilli flakes for a deeper flavour, if desired.
 
-\
 Mash it up with a fork until it is as smooth as you like it and set aside.
 
-\
 Cut the ends off the plantain and remove from its peel. Diagonally cut the plantain into 1/4 inch slices.
 
 Heat 2-3 tbs of oil (or enough to coat the bottom) in a non stick pan on medium heat and place plantain in when it begins to sizzle (Do not let the oil get too hot and smoke).
