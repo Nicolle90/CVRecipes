@@ -60,9 +60,7 @@ A Caribbean feast usually contains a variety of dishes that compliment one anoth
 * 1 tbsp tamari (soy sauce, coconut aminos) 
 * 400g mixed greens (kale, spinach) 
 
-#### \
-
-Ingredients for Quinoa: 
+#### Ingredients for Quinoa: 
 
 * 2 spring onions (sliced)
 * 3 cloves garlic (minced)
@@ -72,9 +70,7 @@ Ingredients for Quinoa: 
 * 400ml Coconut milk
 * 1 cup of water
 
-#### \
-
-Method Jerk Lentils:
+#### Method Jerk Lentils:
 
 Add oil in a large pan over medium heat, add red onions, spring onions, ginger, thyme,  and garlic stir until cooked down. 
 
@@ -82,9 +78,7 @@ Once the mix has softened, add the jerk seasoning, lentils and tomatoes. Mix tog
 
 Add 1 tablespoon of maple syrup (optional). Bring to a boil then cover and reduce heat until lentils are cooked through about 20 minutes, stir occasionally.
 
-#### \
-
-Method for Channa (Chickpeas):
+#### Method for Channa (Chickpeas):
 
 Blend red onion, spring onion, and ginger until a paste forms.
 
@@ -102,9 +96,9 @@ Add fresh thyme, tomatoes, garlic, and tamari. Cook down until tomatoes are soft
 
 Add the greens and continuously stir until wilted.
 
-#### \
 
-Method for Quinoa and Plantain:
+
+#### Method for Quinoa and Plantain:
 
 Rinse the quinoa in a fine sieve to remove the bitter taste.
 
