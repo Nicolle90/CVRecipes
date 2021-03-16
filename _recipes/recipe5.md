@@ -13,12 +13,9 @@ Forget banana bread and try these yummy bananas fritters instead. These well lov
 * Prep time: 15 mins
 * Cook time: 20 mins
 * Total time: 35 mins
-
-
 * Serves: 3 - 4
 
-#### \
-Ingredients: 
+#### Ingredients: 
 
 * 4 large ripe bananas OR 1 ½ cup mashed bananas
 * 3/4 cup Whole Wheat flour
@@ -31,8 +28,7 @@ Ingredients: 
 * Icing sugar (optional)
 * 1/2 tsp salt
 
-#### \
-Method:
+#### Method:
 
 Mash bananas with a spoon or puree in  a food processor/ blender.
 
@@ -47,7 +43,5 @@ Scoop up the batter and fry in small batches, after 2 ½ minutes turn and let it
 Use a slotted spoon to remove the fritters and place them on paper towels to drain the oil.
 
 Let them cool slightly and dust with icing sugar.
-
-
 
 Enjoy!
