@@ -18,8 +18,7 @@ The Caribbean is known for its white rum, here is a naughty treat for those crav
 * Total time: 10 mins
 * Serves: 6 cups
 
-#### \
-Ingredients: 
+#### Ingredients: 
 
 * 1 can (360ml) of evaporated coconut milk 
 * 1 can (400ml) of coconut cream
@@ -30,8 +29,6 @@ Ingredients: 
 * 1/2 tsp cinnamon
 * 1/4 tsp nutmeg
 * Cinnamon stick (garnish)
-
-
 
 #### Method:
 
