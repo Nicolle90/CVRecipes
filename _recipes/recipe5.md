@@ -30,18 +30,12 @@ Forget banana bread and try these yummy bananas fritters instead. These well lov
 
 #### Method:
 
-Mash bananas with a spoon or puree in  a food processor/ blender.
-
-In a bowl mix mashed bananas, flour, brown sugar, baking powder and salt. Mix until the consistency  resembles a creamy batter.
-
-Mix in nutmeg and vanilla, then let it rest for 10 minutes
-
-On medium-high heat, heat up ½ inch of oil in a large skillet until hot but not smoking.
-
-Scoop up the batter and fry in small batches, after 2 ½ minutes turn and let it fry until golden brown. Do not overcrowd the pan (it will cause the fritters to be soggy and absorb excess oil). One batch should take around 5 minutes to cook.
-
-Use a slotted spoon to remove the fritters and place them on paper towels to drain the oil.
-
-Let them cool slightly and dust with icing sugar.
+1. Mash bananas with a spoon or puree in  a food processor/ blender.
+2. In a bowl mix mashed bananas, flour, brown sugar, baking powder and salt. Mix until the consistency  resembles a creamy batter.
+3. Mix in nutmeg and vanilla, then let it rest for 10 minutes
+4. On medium-high heat, heat up ½ inch of oil in a large skillet until hot but not smoking.
+5. Scoop up the batter and fry in small batches, after 2 ½ minutes turn and let it fry until golden brown. Do not overcrowd the pan (it will cause the fritters to be soggy and absorb excess oil). One batch should take around 5 minutes to cook.
+6. Use a slotted spoon to remove the fritters and place them on paper towels to drain the oil.
+7. Let them cool slightly and dust with icing sugar.
 
 Enjoy!
