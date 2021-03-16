@@ -12,68 +12,39 @@ Patties are a popular street food served in Jamaica, a flaky pastry filled with 
 
 * Prep time: 50 mins
 * Cook time: 1 hour
-* Total time: 1hr 50 mins
-
+* Total time: 1hr 50 mins 
 
 * Serves: 10-12 patties
 
-
-
 #### Ingredients for Pastry:
 
-2 cups all purpose flour 
-
-1 tsp baking powder 
-
-1 tsp turmeric powder 
-
-1/2 tsp curry powder 
-
-1 tps sugar 
-
-1 tsp salt 
-
-2 - 3 tbs dairy free butter (cold)
-
-2 - 3 tbs vegetable fat (Trex)
-
-3 - 4 cups cold dairy free milk or water 
-
-1 - 2 tbs coconut oil (for egg wash replacement) 
-
-
+* 2 cups all purpose flour 
+* 1 tsp baking powder 
+* 1 tsp turmeric powder 
+* 1/2 tsp curry powder 
+* 1 tps sugar 
+* 1 tsp salt 
+* 2 - 3 tbs dairy free butter (cold)
+* 2 - 3 tbs vegetable fat (Trex)
+* 3 - 4 cups cold dairy free milk or water 
+* 1 - 2 tbs coconut oil (for egg wash replacement) 
 
 #### Ingredients for Filling:
 
-500g plant based mince 
-
-1 tsp salt 
-
-1 tbs all purpose seasoning
-
-1 tsp black pepper 
-
-1 small carrot (finely chopped)
-
-1 small onion (finely chopped)
-
-2 cloves garlic (chopped)
-
-2 green onions (chopped) 
-
-1 sprig of fresh thyme (chopped)
-
-1/4 Scotch bonnet pepper (chopped) (optional, add if you like spicy foods)
-
-1 - 2 tbsp ketchup 
-
-1 tsp soy sauce 
-
-1/4 cup Panko bread crumbs
-
-2 tbsp Virgin Olive Oil 
-
-
+* 500g plant based mince 
+* 1 tsp salt 
+* 1 tbs all purpose seasoning
+* 1 tsp black pepper 
+* 1 small carrot (finely chopped)
+* 1 small onion (finely chopped)
+* 2 cloves garlic (chopped)
+* 2 green onions (chopped) 
+* 1 sprig of fresh thyme (chopped)
+* 1/4 Scotch bonnet pepper (chopped) (optional, add if you like spicy foods)
+* 1 - 2 tbsp ketchup 
+* 1 tsp soy sauce 
+* 1/4 cup Panko bread crumbs
+* 2 tbsp Virgin Olive Oil 
 
 #### Method:
 
