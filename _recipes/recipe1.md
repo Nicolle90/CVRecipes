@@ -42,3 +42,5 @@ Avocado toast has quickly become a worldwide breakfast favourite, with origins t
 9. Spread avocado on top of your toast, top with a few slices of plantain.
 
 Enjoy!
+
+![Palm tree](../uploads/palmtreeoutline.png "Palm tree")
