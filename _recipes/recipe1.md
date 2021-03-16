@@ -31,22 +31,14 @@ Avocado toast has quickly become a worldwide breakfast favourite, with origins t
 
 #### Method:
 
-Cut your avocado in half and carefully remove the pit. Scoop out the flesh and put it in a bowl.
-
-Add a pinch of salt, black pepper, a squeeze of lemon and a sprinkle of parsley. You can also add paprika and chilli flakes for a deeper flavour, if desired.
-
-Mash it up with a fork until it is as smooth as you like it and set aside.
-
-Cut the ends off the plantain and remove from its peel. Diagonally cut the plantain into 1/4 inch slices.
-
-Heat 2-3 tbs of oil (or enough to coat the bottom) in a non stick pan on medium heat and place plantain in when it begins to sizzle (Do not let the oil get too hot and smoke).
-
-Fry for 1 1/2 minutes on one side, flip and cook for 1 minute on the other side.
-
-Remove from the pan and drain on paper towels.
-
-Toast your slice of bread until slightly golden and butter lightly.
-
-Spread avocado on top of your toast, top with a few slices of plantain.
+1. Cut your avocado in half and carefully remove the pit. Scoop out the flesh and put it in a bowl.
+2. Add a pinch of salt, black pepper, a squeeze of lemon and a sprinkle of parsley. You can also add paprika and chilli flakes for a deeper flavour, if desired.
+3. Mash it up with a fork until it is as smooth as you like it and set aside.
+4. Cut the ends off the plantain and remove from its peel. Diagonally cut the plantain into 1/4 inch slices.
+5. Heat 2-3 tbs of oil (or enough to coat the bottom) in a non stick pan on medium heat and place plantain in when it begins to sizzle (Do not let the oil get too hot and smoke).
+6. Fry for 1 1/2 minutes on one side, flip and cook for 1 minute on the other side.
+7. Remove from the pan and drain on paper towels.
+8. Toast your slice of bread until slightly golden and butter lightly.
+9. Spread avocado on top of your toast, top with a few slices of plantain.
 
 Enjoy!
