@@ -32,11 +32,9 @@ The Caribbean is known for its white rum, here is a naughty treat for those crav
 
 #### Method:
 
-Add the ingredients to a blender and blend at a high speed for 1 - 2 minutes until completely combined. Make sure the coconut cream is completely mixed in.
-
-Place in the fridge and chill for an hour before serving. It will thicken as it chills. *tip: If you find it is too think, you can re-blend with more milk before serving or add a little milk to your individual cup.*
-
-Pour in a small glass and serve with a cinnamon stick for a garnish and a sprinkle of cinnamon. 
+1. Add the ingredients to a blender and blend at a high speed for 1 - 2 minutes until completely combined. Make sure the coconut cream is completely mixed in.
+2. Place in the fridge and chill for an hour before serving. It will thicken as it chills. *tip: If you find it is too think, you can re-blend with more milk before serving or add a little milk to your individual cup.*
+3. Pour in a small glass and serve with a cinnamon stick for a garnish and a sprinkle of cinnamon. 
 
 \
 Enjoy!
