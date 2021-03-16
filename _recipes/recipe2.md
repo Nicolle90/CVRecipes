@@ -13,7 +13,6 @@ Patties are a popular street food served in Jamaica, a flaky pastry filled with 
 * Prep time: 50 mins
 * Cook time: 1 hour
 * Total time: 1hr 50 mins 
-
 * Serves: 10-12 patties
 
 #### Ingredients for Pastry:
