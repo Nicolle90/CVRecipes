@@ -56,9 +56,7 @@ Jerk seasoning is commonly found in meat dishes in Jamaica but it is used throug
 * 1/2 tsp Black pepper
 * 1 ¼ Cup Water or Vegetable stock
 
-
-
-Method Jerk Jackfruit:
+#### Method Jerk Jackfruit:
 
 Drain and rinse the Jackfruit making sure to squeeze out the excess liquid.
 
@@ -66,9 +64,7 @@ Add Olive oil to a pan on medium heat, along with onions, red pepper and garlic.
 
 Add Jackfruit to the pan with all purpose seasoning, jerk seasoning paste, soy sauce, molasses, browning, garlic powder, cinnamon and brown sugar. Then add vegetable stock until it has reduced (20-25 mins), stir occasionally. Use two forks to shred the jackfruit into smaller pieces. Taste for seasoning.
 
-
-
-Method Black Beans:
+#### Method Black Beans:
 
 Add Olive oil to a pan on medium-high heat. Add onions, garlic, thyme, all spice and cook until translucent.
 
