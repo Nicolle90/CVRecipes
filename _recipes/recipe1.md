@@ -43,4 +43,4 @@ Avocado toast has quickly become a worldwide breakfast favourite, with origins t
 
 Enjoy!
 
-![Palm tree](../uploads/palmtreeoutline.png "Palm tree")
+![Two Palm tree](../uploads/twopalmtrees.png "Two Palm tree")
