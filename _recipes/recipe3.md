@@ -58,18 +58,14 @@ Jerk seasoning is commonly found in meat dishes in Jamaica but it is used throug
 
 #### Method Jerk Jackfruit:
 
-Drain and rinse the Jackfruit making sure to squeeze out the excess liquid.
-
-Add Olive oil to a pan on medium heat, along with onions, red pepper and garlic. Let it cook down for a few minutes. Add All Spice and thyme and stir in.
-
-Add Jackfruit to the pan with all purpose seasoning, jerk seasoning paste, soy sauce, molasses, browning, garlic powder, cinnamon and brown sugar. Then add vegetable stock until it has reduced (20-25 mins), stir occasionally. Use two forks to shred the jackfruit into smaller pieces. Taste for seasoning.
+1. Drain and rinse the Jackfruit making sure to squeeze out the excess liquid.
+2. Add Olive oil to a pan on medium heat, along with onions, red pepper and garlic. Let it cook down for a few minutes. Add All Spice and thyme and stir in.
+3. Add Jackfruit to the pan with all purpose seasoning, jerk seasoning paste, soy sauce, molasses, browning, garlic powder, cinnamon and brown sugar. Then add vegetable stock until it has reduced (20-25 mins), stir occasionally. Use two forks to shred the jackfruit into smaller pieces. Taste for seasoning.
 
 #### Method Black Beans:
 
-Add Olive oil to a pan on medium-high heat. Add onions, garlic, thyme, all spice and cook until translucent.
-
-Add Jerk seasoning paste, black beans, can of plum tomatoes and water (or vegetable stock). Mix well then cover and simmer on a low heat until it has cooked down. Stir occasionally.
-
-Layer the black beans, cilantro, baby gem lettuce, then the jerk jackfruit, cucumber and mango. Add a squeeze of lime, salt and pepper. Fold carefully and serve. tip: dry fry the wrap to seal the ends and get a toasted finish. 
+1. Add Olive oil to a pan on medium-high heat. Add onions, garlic, thyme, all spice and cook until translucent.
+2. Add Jerk seasoning paste, black beans, can of plum tomatoes and water (or vegetable stock). Mix well then cover and simmer on a low heat until it has cooked down. Stir occasionally.
+3. Layer the black beans, cilantro, baby gem lettuce, then the jerk jackfruit, cucumber and mango. Add a squeeze of lime, salt and pepper. Fold carefully and serve. tip: dry fry the wrap to seal the ends and get a toasted finish. 
 
 Enjoy!
