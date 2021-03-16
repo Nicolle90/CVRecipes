@@ -10,17 +10,10 @@ Jerk seasoning is commonly found in meat dishes in Jamaica but it is used throug
 
 ![Image of two halves of a wrap filled with jackfruit, black beans, mango and cilantro.](../uploads/jerkjackfruitwrap.jpeg "Jerk Jackfruit and Black Bean Mango wrap")
 
-Prep time: 10 mins
-
-Cook time: 40 mins
-
-Total time: 50 mins
-
-
-
-Serves: 1 - 2
-
-
+* Prep time: 10 mins
+* Cook time: 40 mins
+* Total time: 50 mins
+* Serves: 1 - 2
 
 #### Ingredients for Jerk Jackfruit: 
 
@@ -40,8 +33,6 @@ Serves: 1 - 2
 * 2 tsp Garlic Powder
 * 1 tsp Cinnamon
 * 1 1/2 tsp Brown Sugar
-
-
 * Tortilla wraps
 * 1 Mango (chopped)
 * 1 Cucumber (sliced)
@@ -65,7 +56,8 @@ Serves: 1 - 2
 * 1/2 tsp Black pepper
 * 1 ¼ Cup Water or Vegetable stock
 
-#### \
+
+
 Method Jerk Jackfruit:
 
 Drain and rinse the Jackfruit making sure to squeeze out the excess liquid.
@@ -74,7 +66,8 @@ Add Olive oil to a pan on medium heat, along with onions, red pepper and garlic.
 
 Add Jackfruit to the pan with all purpose seasoning, jerk seasoning paste, soy sauce, molasses, browning, garlic powder, cinnamon and brown sugar. Then add vegetable stock until it has reduced (20-25 mins), stir occasionally. Use two forks to shred the jackfruit into smaller pieces. Taste for seasoning.
 
-#### \
+
+
 Method Black Beans:
 
 Add Olive oil to a pan on medium-high heat. Add onions, garlic, thyme, all spice and cook until translucent.
@@ -82,7 +75,5 @@ Add Olive oil to a pan on medium-high heat. Add onions, garlic, thyme, all spice
 Add Jerk seasoning paste, black beans, can of plum tomatoes and water (or vegetable stock). Mix well then cover and simmer on a low heat until it has cooked down. Stir occasionally.
 
 Layer the black beans, cilantro, baby gem lettuce, then the jerk jackfruit, cucumber and mango. Add a squeeze of lime, salt and pepper. Fold carefully and serve. tip: dry fry the wrap to seal the ends and get a toasted finish. 
-
-
 
 Enjoy!
