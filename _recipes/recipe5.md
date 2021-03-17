@@ -39,3 +39,5 @@ Forget banana bread and try these yummy bananas fritters instead. These well lov
 7. Let them cool slightly and dust with icing sugar.
 
 Enjoy!
+
+![Two Palm tree](../uploads/twopalmtrees.png "Two Palm tree")
