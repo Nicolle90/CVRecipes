@@ -38,3 +38,5 @@ The Caribbean is known for its white rum, here is a naughty treat for those crav
 
 \
 Enjoy!
+
+![Two Palm tree](../uploads/twopalmtrees.png "Two Palm tree")
