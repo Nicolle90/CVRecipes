@@ -83,3 +83,257 @@ ul.allrecipes {
   margin: 20px 0;
 }
 
+body{
+color: black;
+line-height: 1.4;
+margin-left: 30%;
+margin-right: 23%;
+font-size: 17px;
+background-color: #d3ecd2
+}
+
+
+.everthing{
+  width: 100%;
+  text-align: justify;
+  border-width: thick;
+}
+
+
+h1{
+  color: black;
+  width: 100%;
+}
+
+
+p{
+  color: blue;
+  margin-right: 13%;
+
+}
+
+
+ul{
+color: black;
+padding-left: 0.5%;
+}
+
+
+ol{
+  color:black;
+  margin-right: 13%;
+  padding-left: 0.5%;
+}
+
+
+.content {
+width:45%;
+margin-left: 60px;
+}
+
+
+img{
+width: 450px;
+height: 300px;
+max-width: 700px;
+max-height: 600px;
+}
+
+.maincoverdish{
+  width: 520px;
+  height: 600px;
+}
+
+
+.post-content{
+  width: 210%;
+  text-align: justify;
+}
+
+
+
+
+.posts{
+  text-align: justify;
+width: 200%;
+}
+
+.post-link{
+  color: #0a3b10;
+  font-size: 19px;
+  display: inline-block;
+
+}
+
+.excerpt{
+  width: 102%;
+}
+
+.menu{
+  font-size: 18px;
+  text-align: center;
+  border: 0px;
+width: 100%;
+}
+
+
+.blackpalmtrees{
+opacity: 100%;
+width: 520px;
+height: 350px;
+margin-left: 50px;
+color: black;
+
+}
+
+main{
+background-color: white;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 12px;
+padding-right: 6px;
+
+}
+
+header h1{
+  color:#0a3b10;
+}
+
+.itemlistheading{
+  width: 200%;
+}
+
+.recipedesc{
+  width: 180%;
+  text-align: justify;
+}
+.recipetitle{
+  padding-left: 80px;
+}
+.recipelisttitle{
+  padding-left: 150px;
+}
+
+.mainpagetitle{
+padding-left: 150px;
+}
+
+.ingredientlist{
+  width: 500%;
+}
+.mainfoodimage{
+
+}
+
+.methodlist{
+width: 180%;
+text-align: justify;
+
+}
+.allrecipes{
+  list-style-type: none;
+}
+
+.clear{
+  color: #00203FFF;
+}
+.recipehere{
+  color: black;
+}
+
+.homebutton{
+  color: #00203FFF;
+}
+
+
+@media screen and (max-width: 700px){
+
+figure{
+  width: 50%;
+  margin: 0 auto 2 rem auto;
+}
+
+main{
+  width: 200%;
+  min-width: 70%;
+  max-width: 0 auto;
+  padding: 0 auto;
+  margin-left: 10px:
+  display: flex;
+}
+
+body{
+  background-color: white;
+  padding: 0 auto;
+font-size: 14px;
+margin-left: 0 auto;
+margin-right: 0 auto;
+text-align: left;
+display: inline;
+}
+
+.mainfoodimage{
+  width: 150%;
+  min-width: 30%;
+  padding: 0%;
+  text-align: justify;
+  display: flex;
+}
+
+.recipedesc{
+width:90%;
+  min-width: 50%;
+  text-align: justify;
+  display: flex;
+}
+
+.recipetitle{
+  font-size: 18px;
+}
+.homebutton{
+  font-size: 14px;
+  text-align: justify;
+  display: flex;
+}
+
+.recipehere{
+  font-size: 14px;
+  text-align: justify;
+  display: flex;
+}
+.clear{
+  font-size: 14px;
+  text-align: center;
+  display: flex;
+}
+.blackpalmtrees{
+  width:100%;
+  height: 60%;
+}
+.methodlist{
+  width:90%;
+    min-width: 50%;
+  display: block;
+  flexi-wrap: wrap;
+  text-align: justify;
+}
+.posts{
+  width:90%;
+    min-width: 50%;
+}
+
+.introtorecipes{
+  width:40%;
+    min-width: 15%;
+    display: block;
+    flexi-wrap: wrap;
+    text-align: justify;
+}
+
+.maincoverdish{
+  width:50%;
+  height: 60%;
+
+}
+
+}
