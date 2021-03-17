@@ -69,3 +69,5 @@ Jerk seasoning is commonly found in meat dishes in Jamaica but it is used throug
 3. Layer the black beans, cilantro, baby gem lettuce, then the jerk jackfruit, cucumber and mango. Add a squeeze of lime, salt and pepper. Fold carefully and serve. tip: dry fry the wrap to seal the ends and get a toasted finish. 
 
 Enjoy!
+
+![Two Palm tree](../uploads/twopalmtrees.png "Two Palm tree")
