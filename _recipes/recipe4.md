@@ -102,3 +102,5 @@ A Caribbean feast usually contains a variety of dishes that compliment one anoth
 
 \
 Enjoy!
+
+![Two Palm tree](../uploads/twopalmtrees.png "Two Palm tree")
