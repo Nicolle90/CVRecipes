@@ -62,3 +62,5 @@ Patties are a popular street food served in Jamaica, a flaky pastry filled with 
 
 \
 Enjoy!
+
+![Two Palm tree](../uploads/twopalmtrees.png "Two Palm tree")
