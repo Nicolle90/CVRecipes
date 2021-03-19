@@ -183,7 +183,7 @@ margin-left: 100px;
 
 .allrecipes{
  position: relative;
- width:50%;
+ width:100%;
  display: block;
  text-align: center;
  flex-flow: wrap;
