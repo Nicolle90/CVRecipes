@@ -53,7 +53,7 @@ font-size: 18px;
 }
 
 .menu a{
-  color: #00203FFF
+  color: #00203FFF;
 
 }
 
@@ -83,7 +83,18 @@ ol{
   text-align: justify;
 }
 
+@media screen and (max-width:1050px) {
+  .itemlistheading{
+    margin-left: 0px;
+    text-align: center;
+    width: 100%;}
+
+
 @media screen and (max-width:900px) {
+
+  html{
+    background: white;
+  }
 
 main {
 width: auto;
@@ -92,36 +103,103 @@ margin-left: auto;
 
 body {margin-left: auto;
 }
-
+.itemlistheading{
+  margin-left: 50px;
+  text-align: center;
+  width: 100%;
+font-size: 12pt;
+}
 }
 
 
+
 @media screen and (max-width:700px) {
+
+  html{
+    background: white;
+  }
+
 main {
  width: auto;
- margin-left: auto;}
+margin-left: auto;}
 
 body {
   margin-left: auto;
 }
-
+.itemlistheading{
+  margin-left: 50px;
+  text-align: center;
+  width: 100%;
+font-size: 12pt;
+}
 }
 
 
 
 @media screen and (max-width:500px) {
+
+  html{
+    background: pink;
+  }
+
 main {
  width: auto;
  margin-left: auto;
+
 }
 
 body {
  margin-left: auto;
+
 }
+
+p{
+text-align: justify;
+width:100%;
+}
+
+.itemlistheading{
+  margin-left: 50px;
+  text-align: center;
+  width: 100%;
+font-size: 12pt;
+}
+
+header h1{
+flex-wrap: none;
+text-align: center;
+width: 75%;
+margin-left: 100px;
+}
+
+
+.menu a{
+ position: relative;
+ width:100%;
+ display: block;
+ text-align: center;
+ margin-left:50%;
+}
+
+.allrecipes{
+ position: relative;
+ width:50%;
+ display: block;
+ text-align: center;
+ flex-flow: wrap;
+ margin-left: 0px;}
+
+
+
 
 }
 
 @media screen and (max-width:450px) {
+
+  html{
+    background: white;
+  }
+
 main {
  width: auto;
  margin-left: auto;
@@ -130,6 +208,11 @@ main {
 body {
  margin-left: auto;
  margin-right: auto;
+}
+
+p{
+text-align: justify;
+width:100%;
 }
 
 
@@ -141,10 +224,24 @@ body {
  display: block;
  text-align: center;
 }
+.allrecipes{
+ position: relative;
+ top:0;
+ left: 0;
+ width:100%;
+ display: block;
+ text-align: justify;
+ flex-flow: wrap;
+}
 
 }
 
 @media screen and (max-width:300px) {
+
+  html{
+    background: white;
+  }
+
 main {
  width: auto;
  margin-right:auto;
@@ -154,6 +251,12 @@ body  {
  margin-right: auto;
 }
 
+p{
+text-align: justify;
+width:100%;
+}
+
+
 .menu a{
  position: relative;
  top:0;
@@ -163,14 +266,35 @@ body  {
  text-align: center;
 }
 
+.allrecipes{
+ position: relative;
+ top:0;
+ left: 0;
+ width:100%;
+ display: block;
+ text-align: justify;
+ flex-flow: wrap;
+}
+
 }
 
 @media screen and (max-width:200px) {
+
+  html{
+    background: white;
+  }
+
 main {
  width: auto;
  margin-right:auto;
  font-size: 10pt;
 }
+
+p{
+text-align: justify;
+width:100%;
+}
+
 
 .menu a{
  position: relative;
@@ -191,12 +315,11 @@ main {
  flex-flow: wrap;
 }
 
+
 .post-link{
  font-size: 14pt;
 }
 
-.itemlistheading{
- margin: auto;
-}
+
 
 }
